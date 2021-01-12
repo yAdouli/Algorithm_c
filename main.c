@@ -2,6 +2,7 @@
 
 int main()
 {
+    
     // Instantiation of variables
     char firstName[16];
     char lastName[10];
