@@ -13,7 +13,7 @@ int main()
     while (x >= 0) 
     {
         nombre++;
-        somme += x;
+        somme = somme + x;
 
        printf("Entrez un entier positif: ");
         scanf("%f", &x);
